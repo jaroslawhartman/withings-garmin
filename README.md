@@ -1,3 +1,20 @@
+# Important
+
+
+
+
+
+**The project is continued as withings-sync. See repository https://github.com/jaroslawhartman/withings-sync**
+
+
+
+
+
+
+
+
+
+
 # withings-garmin-v2 (and TrainerRoad)
 
 A tool for synchronisation of Withings (ex. Nokia Health Body) to Garmin Connect and Trainer Road.
