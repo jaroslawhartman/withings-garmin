@@ -1,19 +1,17 @@
-# Important
+# Important && WARNING
 
+**The tool has been migrated to https://github.com/jaroslawhartman/withings-sync**
 
+The old withings-garmin-v2 will not authorise anymore and cause the following error:
 
+URL:"https://account.withings.com/oauth2_user/authorize2?response_type=code&client_id=183e03e1f363110b3551f96765c98c10e8f1aa647a37067a1cb64bbbaf491626&state=OK&scope=user.metrics&redirect_uri=https%3A%2F%2Fwieloryb.uk.to%2Fwithings%2Fwithings.html&selecteduser=2916101
 
+Provides me with:
+{"errors":[{"message":"redirect_uri_mismatch: The redirect URI provided is missing or does not match partner callback url"}]}
 
-**The project is continued as withings-sync. See repository https://github.com/jaroslawhartman/withings-sync**
+Get the new version and authorize again.
 
-
-
-
-
-
-
-
-
+**The tool has been migrated to https://github.com/jaroslawhartman/withings-sync**
 
 # withings-garmin-v2 (and TrainerRoad)
 
